@@ -1,0 +1,10 @@
+CARA MASUK / LOGIN APLIKASI :
+
+SEBAGAI ADMIN 
+
+Nama	 : Muhammad Irfan
+USERNAME : admin
+PASSWORD : admin
+
+Hak Akses : Akses Data Pelanggan, Admin, Transaksi Cucian dan Laporan Transaksi
+
